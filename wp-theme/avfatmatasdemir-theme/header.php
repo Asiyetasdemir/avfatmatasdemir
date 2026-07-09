@@ -43,7 +43,7 @@
                     'theme_location' => 'primary',
                     'container' => false,
                     'menu_class' => '',
-                    'fallback_cb' => false
+                    'fallback_cb' => 'avfatmatasdemir_default_menu'
                 ));
                 ?>
             </nav>

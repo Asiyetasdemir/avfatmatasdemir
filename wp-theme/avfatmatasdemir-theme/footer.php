@@ -10,7 +10,7 @@
                         'theme_location' => 'primary',
                         'container' => false,
                         'menu_class' => 'footer-icon-list',
-                        'fallback_cb' => false
+                        'fallback_cb' => 'avfatmatasdemir_default_menu'
                     ));
                     ?>
                 </div>
