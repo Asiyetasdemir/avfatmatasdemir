@@ -594,7 +594,7 @@ nav.main-nav ul li a.active {
 
 /* --- Experience Section --- */
 .experience-section {
-    background-color: #ffffff;
+    background-color: var(--bg-cream);
 }
 
 .experience-grid {
@@ -1052,7 +1052,7 @@ nav.main-nav ul li a.active {
 
 /* --- Bir Sorunuz Mu Var CTA Section --- */
 .cta-question-section {
-    background-color: #DAD7CF;
+    background-color: var(--bg-cream);
     padding: 100px 0;
 }
 
