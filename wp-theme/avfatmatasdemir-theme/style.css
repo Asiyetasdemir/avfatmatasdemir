@@ -279,7 +279,7 @@ header.site-header.scrolled .container {
     font-size: 0.72rem;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: rgba(255, 255, 255, 0.85);
+    color: var(--color-gold);
     font-weight: 500;
     margin-top: 2px;
 }
