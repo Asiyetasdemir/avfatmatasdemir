@@ -52,7 +52,7 @@ get_header();
                 <!-- Right Column (Google Map) -->
                 <div class="contact-map-col">
                     <div class="contact-map-wrapper">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.916892552809!2d29.432651476537365!3d40.80234057137887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cadc1e6ea24619%3A0xe54e60bbbf2bd17!2zSMOhY8SxaGFsaWwsIEjDvGvDvG1ldCBDZDIuIE5vOjY5LCA0MTQwMCBHZWJ6ZS9Lb2NhZWxp!5e0!3m2!1str!2str!4v1717900000000!5m2!1str!2str" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://maps.google.com/maps?q=Hac%C4%B1halil%20Mahallesi%20H%C3%BCk%C3%BCmet%20Caddesi%20No%3A69%20Kocaeli%2FT%C3%BCrkiye&t=&z=16&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
