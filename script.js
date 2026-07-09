@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         function startInterval() {
-            slideInterval = setInterval(nextSlide, 5000); // Change slide every 5 seconds
+            slideInterval = setInterval(nextSlide, 2000); // Change slide every 2 seconds
         }
 
         function resetInterval() {
