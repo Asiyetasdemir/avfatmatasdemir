@@ -533,7 +533,7 @@ nav.main-nav ul li a.active {
 
 /* --- Biography Section --- */
 .biography-section {
-    background-color: #ffffff;
+    background-color: var(--bg-cream);
 }
 
 .biography-grid {
@@ -584,7 +584,7 @@ nav.main-nav ul li a.active {
 
 /* --- Experience Section --- */
 .experience-section {
-    background-color: var(--bg-cream);
+    background-color: #ffffff;
 }
 
 .experience-grid {
@@ -740,7 +740,7 @@ nav.main-nav ul li a.active {
 
 /* --- Why Attorney Section --- */
 .why-attorney-section {
-    background-color: var(--bg-primary);
+    background-color: var(--bg-cream);
     text-align: center;
 }
 
