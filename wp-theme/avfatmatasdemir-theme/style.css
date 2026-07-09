@@ -543,7 +543,7 @@ nav.main-nav ul li a.active {
 
 /* --- Biography Section --- */
 .biography-section {
-    background-color: var(--bg-cream);
+    background-color: #ffffff;
 }
 
 .biography-grid {
@@ -594,7 +594,7 @@ nav.main-nav ul li a.active {
 
 /* --- Experience Section --- */
 .experience-section {
-    background-color: var(--bg-cream);
+    background-color: #ffffff;
 }
 
 .experience-grid {
